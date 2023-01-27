@@ -37,3 +37,4 @@ Image:
     - [ ] despuespues push
 	- [ ] pull request se hace desde el repo remoto a algun colaborador
 
+
